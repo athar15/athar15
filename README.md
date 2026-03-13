@@ -1,6 +1,5 @@
-
- 💫 About Me
-# Hi 👋, I'm Athar<br><br>🎓 MBA Business Analytics  <br>📊 Aspiring Data Analyst passionate about transforming data into actionable insights  <br>💡 Interested in Data Analytics, Business Intelligence, and Machine Learning<br><br>🚩## 🚀 About Me<br><br>🚩 I’m currently working on  <br>Building end-to-end Data Analytics and Machine Learning projects using Python, SQL, and Power BI.<br><br>👯 I’m looking to collaborate on  <br>Data Analytics, Business Intelligence, and Machine Learning projects that solve real business problems.<br><br>🤝 I’m looking for help with  <br>Advanced Machine Learning concepts and real-world datasets.<br><br>🌱 I’m currently learning  <br>Python, SQL, Power BI, Data Analytics, and Machine Learning.<br><br>💬 Ask me about  <br>SQL queries, Power BI dashboards, Exploratory Data Analysis, and beginner Machine Learning.<br><br>⚡ Fun fact  <br>I enjoy transforming raw datasets into meaningful insights and business dashboards.
+# 💫 About Me:
+MBA Business Analytics professional with skills in Python, SQL, Machine Learning and Power BI, focused on applying data analytics and business intelligence to transform data into actionable insights for smarter business decisions.
 
 
 ## 🌐 Socials:
@@ -15,5 +14,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=athar15&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
